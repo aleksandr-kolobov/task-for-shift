@@ -1,0 +1,11 @@
+Lorem ipsum dolor sit amet
+Пример
+consectetur adipiscing
+тестовое задание
+3,2
+52 sad
+Нормальная форма числа с плавающей запятой
+Long
+Пример запуска утилиты
+69sdf
+7.1.1.2
